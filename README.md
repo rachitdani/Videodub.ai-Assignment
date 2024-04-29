@@ -4,10 +4,10 @@ This python code scrapes the user recommended data using selenium web driver and
 
 ## Tools Used
 
-Selenium 
-Beautiful Soup
-pandas
-numpy
+1) Selenium
+2) Beautiful Soup
+3) pandas
+4) numpy
 
 
 # How to run?
